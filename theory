@@ -1,0 +1,22 @@
+Image sprites
+Image sprat is a collection of Image put into a single Image
+a webpage with manay image can take long time to load and generate multiple surver request
+Using image sprites can reduce multiple server request and save bandwidh.
+
+CSS Position
+1.static
+    It is defult Position with not support left rihjt top buttom.
+2.Relative
+    it change the positon from previos position to new position.
+    it not affect other element.
+    It work with top buttom right left.
+3.Absolute
+    it change the positon from innitila of window position to new position.
+    It disturb other element.
+    It work with top buttom right left.
+4.fixed
+    here the positin is fixed.
+    It not change while scrolling also.
+    It is totaly like Absolute.
+5.Sticky
+    
